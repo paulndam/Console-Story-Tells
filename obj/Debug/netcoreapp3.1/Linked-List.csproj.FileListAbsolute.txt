@@ -1,0 +1,12 @@
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Linked-List/bin/Debug/netcoreapp3.1/Linked-List.deps.json
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Linked-List/bin/Debug/netcoreapp3.1/Linked-List.runtimeconfig.json
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Linked-List/bin/Debug/netcoreapp3.1/Linked-List.runtimeconfig.dev.json
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Linked-List/bin/Debug/netcoreapp3.1/Linked-List.dll
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Linked-List/bin/Debug/netcoreapp3.1/Linked-List.pdb
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Linked-List/obj/Debug/netcoreapp3.1/Linked-List.csprojAssemblyReference.cache
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Linked-List/obj/Debug/netcoreapp3.1/Linked-List.AssemblyInfoInputs.cache
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Linked-List/obj/Debug/netcoreapp3.1/Linked-List.AssemblyInfo.cs
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Linked-List/obj/Debug/netcoreapp3.1/Linked-List.csproj.CoreCompileInputs.cache
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Linked-List/obj/Debug/netcoreapp3.1/Linked-List.dll
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Linked-List/obj/Debug/netcoreapp3.1/Linked-List.pdb
+/Users/paulndam/Documents/Documents/C#-Data-Structure-Algo-Book/C#-ALGOS-DATA-STRCT/Linked-List/obj/Debug/netcoreapp3.1/Linked-List.genruntimeconfig.cache
